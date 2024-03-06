@@ -1,15 +1,12 @@
-# Politician Replacement Plan (PRP)
+# 程序员联盟（中国区）
 
-## Introduction
+## 这是什么？
 
-As a Chinese, my English words are so limited that I'm going to describe everything in Chinese below.  
-Basically, the idea here is "What about using ChatGPT to replace politicians?"
+基于恶劣的中国程序员生存环境（比如996，年龄歧视），参考西方的工会模式，特此建立**程序员联盟(中国区)**。  
+我们不在于完全反对996的工作形势，在于是否给予程序员选择的自由以及公正的对待：
+* 有因拒绝加班而免予受罚的自由
+* 有基于加班而得到公正的补偿的自由
+* 有公平的基于才能而被选择的自由
 
+为此，所有的程序员应联合起来，保证我们合理的利用我们的权利，给予非正当的行为以还击。这才是社会文明进步的标志。
 
-起因:  
-作为忧心世界的中国人, 看到俄乌双方的矛盾, 以及西方世界层出不穷的混乱。在ChatGPT大行其道的今天, 灵光一现.  
-众所周知的事实是人有贪婪之心和权利欲望, 所以当人作为领导, 显然有可能夹带私心. 然而ChatGPT不会.  
-因此, 我认为未来的政治也应该像一般人利用ChatGPT一样, 完全可以削减大量的财政支出和不必要的开支.  
-此为 “政治家替代计划 (Politician Replacement Plan)”, PRP.
-
-我认为欧洲/美国完全有能力执行这个计划, 至少好过于战争与罢工.
